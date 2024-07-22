@@ -1,0 +1,99 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Roboto;
+}
+
+.logo{
+    margin-left: 30px;
+}
+
+
+.menu{
+    margin-left:450px;
+}
+ 
+.menu a {
+    color: white;
+}
+.topbar{
+
+font-size: 20px;
+}
+
+
+.banner{
+    margin: 70px auto;
+    margin-left: 180px;
+}
+
+
+
+.footer{
+
+    background-color: rgb(214, 71, 71);
+
+}
+
+.footer ul {
+
+    list-style-type: none;
+}
+
+.footer ul li a {
+
+    text-decoration: none;
+    color: white;
+}
+
+.footer h2, h3 {
+    color: springgreen;
+    font-size: 19px;
+}
+
+.footer .arac {
+
+
+    text-align: center;
+
+}
+
+
+.aracmain{
+    text-align: center;
+}
+.aracmain i {
+    font-size: 25px;
+    padding: 60px;
+    color: blue;
+}
+
+.aracmain h5{
+    font-size:27px ;
+}
+
+.aracmain p {
+
+    font-style: 26px;
+}
+
+
+.main h3 {
+    color: red;
+    font-size: 29px;
+    margin-bottom: 30px;
+}
+
+.menu:hover{
+font-style: italic;
+}
+
+
+.menu {
+    margin-right: 530px;
+}
+
